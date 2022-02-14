@@ -1,5 +1,5 @@
 /**
- * @author <ﬁ¸kr¸ Gˆrkem Okur>
+ * @author ≈û√ºkr√º G√∂rkem Okur
  * a01001474:
  */
 
